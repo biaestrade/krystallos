@@ -1,3 +1,6 @@
 # Krystallos
 
-Site de cotas de patrocínio do Krystallos Festival 2027, publicado em https://patrocinio.krystallos.com.br
+Site do Krystallos Festival 2027, publicado em https://krystallos.com.br
+
+- `/` home (em branco por enquanto)
+- `/patrocinadores` site de cotas de patrocínio
